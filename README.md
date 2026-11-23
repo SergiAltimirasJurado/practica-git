@@ -1,1 +1,1 @@
-# practica-git
+# Pràctica de Git i GitHub
